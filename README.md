@@ -35,7 +35,11 @@
 
 ---
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=halitiince&show_icons=true&theme=radical)
+![My github stats](https://github-readme-stats.vercel.app/api?username=halitiince&show_icons=true&theme=radical)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=halitiince.halitiince)
+![github-followers](https://img.shields.io/github/followers/halitiince?style=social)
+![github-starts](https://img.shields.io/github/stars/halitiince?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
 ---
 
@@ -47,7 +51,3 @@
   <a href="https://www.linkedin.com/in/halit-ince-84482a148/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/halitiince/"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white"/></a>
 </p>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=halitiince.halitiince)
-![github-followers](https://img.shields.io/github/followers/halitiince?style=social)
-![github-starts](https://img.shields.io/github/stars/halitiince?affiliations=OWNER%2CCOLLABORATOR&style=social)
