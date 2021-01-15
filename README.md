@@ -35,7 +35,7 @@
 
 ---
 
-#### 🛠 My Github Analytics
+#### ⌚ My Github Analytics
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=halitiince&show_icons=true&theme=radical)
 
